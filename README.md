@@ -17,25 +17,25 @@ I'm transitioning into Data Science while working full-time in IT. I'm passionat
 ### Anomaly Detection in Network Traffic
 - Built a machine learning model to detect unusual patterns in network activity.
 - Used Python, Scikit-learn, Pandas, and CICIDS2017 dataset.
-- [View Project →](https://github.com/your-username/anomaly-detection-network)
+- [View Project →](https://github.com/mhamadbohsali/anomaly-detection-network)
 
 ### Power BI Sales Dashboard
 - Designed and published dynamic dashboards for retail sales data.
 - Filters, KPIs, and insights for monthly trends.
-- [View Report →](https://github.com/your-username/powerbi-sales-dashboard)
+- [View Report →](https://github.com/mhamadbohsali/powerbi-sales-dashboard)
 
 ### Student Mental Health Prediction
 - Predictive modeling using survey data to flag mental health risk in students.
 - Logistic regression, EDA, and visualizations.
-- [View Notebook →](https://github.com/your-username/mental-health-ds)
+- [View Notebook →](https://github.com/mhamadbohsali/mental-health-ds)
 
 ---
 
 ## Contact
 
 - Email: your.email@example.com  
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [GitHub](https://github.com/your-username)
+- [LinkedIn]([https://www.linkedin.com/in/mohamadraficbohsali/])  
+- [GitHub](https://github.com/mhamadbohsali)
 
 ---
 
