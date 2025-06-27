@@ -34,7 +34,7 @@ I'm transitioning into Data Science while working full-time in IT. I'm passionat
 ## Contact
 
 - Email: mhamadbohsali@gmail.com
-- [LinkedIn]([https://www.linkedin.com/in/mohamadraficbohsali/])  
+- [LinkedIn](https://www.linkedin.com/in/mohamadraficbohsali)  
 - [GitHub](https://github.com/mhamadbohsali)
 
 ---
