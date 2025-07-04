@@ -14,6 +14,18 @@ I'm transitioning into Data Science while working full-time in IT. I'm passionat
 
 ## Projects
 
+### Automatic Email Sender (GUI Version) 
+Desktop tool that connects to SQL Server, displays user data, and sends personalized Outlook emails.
+- Built with Python, Tkinter, and win32com.
+- Includes table filtering, A–Z sorting, and embedded HTML email with logo.
+- [View Project →](https://github.com/mhamadbohsali/Automatic_Email_Sender_GUI)
+
+### Automatic Email Sender (Console Version)
+A Python script that connects to SQL Server, fetches user data, loads a .eml file, and sends personalized emails using Outlook.
+- Used pyodbc, email.parser, and win32com.client.
+- This was the foundation for the GUI version and helped automate bulk internal communications.
+- [View Project →](https://github.com/mhamadbohsali/Automatic_Email_Sender)
+
 ### Anomaly Detection in Network Traffic
 - Built a machine learning model to detect unusual patterns in network activity.
 - Used Python, Scikit-learn, Pandas, and CICIDS2017 dataset.
