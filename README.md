@@ -21,7 +21,7 @@ Desktop tool that connects to SQL Server, displays user data, and sends personal
 - [View Project →](https://github.com/mhamadbohsali/Automatic_Email_Sender_GUI)
 
 ### Automatic Email Sender (Console Version)
-A Python script that connects to SQL Server, fetches user data, loads a .eml file, and sends personalized emails using Outlook.
+A Python script that connects to SQL Server, fetches user data, and sends personalized emails using Outlook.
 - Used pyodbc, email.parser, and win32com.client.
 - This was the foundation for the GUI version and helped automate bulk internal communications.
 - [View Project →](https://github.com/mhamadbohsali/Automatic_Email_Sender)
